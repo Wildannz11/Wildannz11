@@ -1,6 +1,6 @@
 # Halo semua! 
 Nama saya **Wildan Mukholad Fauzi**.\
-Saya seorang **Backend Developer**.\
+Saya seorang **Web Developer** .\
 Kenalan sama aku yuu di [Linkedin](https://www.linkedin.com/in/wildan-mukholad-fauzi-4167b41a5/) ku ya.
  
 <p align="left">
